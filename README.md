@@ -1,10 +1,10 @@
 # Rubycond_calc
 Ruby and Samarium fluorescence pressure / wavelength calculators 
 
-# Ruby Tab
+## Ruby Tab
 <img width="1008" height="804" alt="tab_ruby" src="https://github.com/user-attachments/assets/bd22dd6c-39c7-4aa4-a20f-9dafeccd7ebe" />
 
-# Samarium Tab
+## Samarium Tab
 <img width="1008" height="804" alt="tab_sam" src="https://github.com/user-attachments/assets/cf43c048-916c-4955-8ea9-1bbbacad3c51" />
 
 # Author
