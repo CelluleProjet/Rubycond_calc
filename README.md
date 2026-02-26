@@ -1,5 +1,5 @@
 # Rubycond_calc
-Ruby and Samarium fluorescence pressure / wavelength calculators 
+Ruby and Samarium pressure/wavelength calculator
 
 # Install
 Use pip to install the program **within a virtual environment (strongly recommended).**  
