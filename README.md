@@ -1,6 +1,13 @@
 # Rubycond_calc
 Ruby and Samarium fluorescence pressure / wavelength calculators 
 
+## Install
+Use pip to install the program **within a virtual environment (strongly recommended).**  
+[Here's a short tutorial on installing a virtual environment.](https://github.com/CelluleProjet/Install/tree/main?tab=readme-ov-file#install-virtual-environment)
+```bash
+pip install rubycond_calc
+```
+
 ## Ruby Tab
 <img width="1008" height="804" alt="tab_ruby" src="https://github.com/user-attachments/assets/bd22dd6c-39c7-4aa4-a20f-9dafeccd7ebe" />
 
