@@ -4,9 +4,27 @@ Ruby and Samarium pressure/wavelength calculator
 
 # Manual
 ## Ruby Tab
+- Ruby Cr³⁺:Al₂O₃  
+  - λ₀ (nm) = 694.25  
+  - T(λ₀) (K) = 293.15  
+  - P Calibration  
+    - Shen 2020  
+    - Mao hydro 1986  
+    - Mao non hydro 1986  
+    - Dewaele 2008  
+    - Dorogokupets and Oganov 2007  
+  - T(λ) (K) = 293.15  
+  - T Calibration  
+    - Not Used  
+    - Datchi 2004 
 <img width="1008" height="804" alt="tab_ruby" src="https://github.com/user-attachments/assets/bd22dd6c-39c7-4aa4-a20f-9dafeccd7ebe" />
 
 ## Samarium Tab
+- Samarium Sm²⁺:SrB₄O₇  
+  - λ₀ (nm) = 685.51  
+  - P Calibration  
+    - Rashchenko 2015  
+    - Datchi 1997 
 <img width="1008" height="804" alt="tab_sam" src="https://github.com/user-attachments/assets/cf43c048-916c-4955-8ea9-1bbbacad3c51" />
 
 # Install
